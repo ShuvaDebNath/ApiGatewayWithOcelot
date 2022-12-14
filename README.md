@@ -1,4 +1,3 @@
-# Api Gateway With Ocelot
 In this project, we know how to implement an API Gateway using Ocelot in MICROSERVICE project.
 
 # Oelot
@@ -24,3 +23,8 @@ In this section, we have Period, PeriodTimespan, Limit. Once a request more than
 
 # TtlSeconds 
 It stand for TIME TO LEAVE IN SECOND. It means, while the data is in the cache, the API Gateway doesn’t make an HTTP request to our microservice. That means we are saving resources from our microservice. Once the cache expires, the API Gateway requests the microservice once more and saves the data in the cache again.
+
+# Run Command in Browser
+https://localhost:5003/gateway/suppliers
+https://localhost:5003/gateway/suppliers/1
+https://localhost:5003/gateway/purchase
