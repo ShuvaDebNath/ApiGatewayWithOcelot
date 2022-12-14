@@ -25,3 +25,35 @@ D:\Test\ApiGatewayWithOcelot\Order.Api\obj\Debug\net6.0\refint\Order.Api.dll
 D:\Test\ApiGatewayWithOcelot\Order.Api\obj\Debug\net6.0\Order.Api.pdb
 D:\Test\ApiGatewayWithOcelot\Order.Api\obj\Debug\net6.0\Order.Api.genruntimeconfig.cache
 D:\Test\ApiGatewayWithOcelot\Order.Api\obj\Debug\net6.0\ref\Order.Api.dll
+D:\.Net Core\Ocelot Api (Microservice)\ApiGatewayWithOcelot\Order.Api\bin\Debug\net6.0\appsettings.Development.json
+D:\.Net Core\Ocelot Api (Microservice)\ApiGatewayWithOcelot\Order.Api\bin\Debug\net6.0\appsettings.json
+D:\.Net Core\Ocelot Api (Microservice)\ApiGatewayWithOcelot\Order.Api\bin\Debug\net6.0\Order.Api.exe
+D:\.Net Core\Ocelot Api (Microservice)\ApiGatewayWithOcelot\Order.Api\bin\Debug\net6.0\Order.Api.deps.json
+D:\.Net Core\Ocelot Api (Microservice)\ApiGatewayWithOcelot\Order.Api\bin\Debug\net6.0\Order.Api.runtimeconfig.json
+D:\.Net Core\Ocelot Api (Microservice)\ApiGatewayWithOcelot\Order.Api\bin\Debug\net6.0\Order.Api.dll
+D:\.Net Core\Ocelot Api (Microservice)\ApiGatewayWithOcelot\Order.Api\bin\Debug\net6.0\Order.Api.pdb
+D:\.Net Core\Ocelot Api (Microservice)\ApiGatewayWithOcelot\Order.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\.Net Core\Ocelot Api (Microservice)\ApiGatewayWithOcelot\Order.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\.Net Core\Ocelot Api (Microservice)\ApiGatewayWithOcelot\Order.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\.Net Core\Ocelot Api (Microservice)\ApiGatewayWithOcelot\Order.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\.Net Core\Ocelot Api (Microservice)\ApiGatewayWithOcelot\Order.Api\obj\Debug\net6.0\Order.Api.csproj.AssemblyReference.cache
+D:\.Net Core\Ocelot Api (Microservice)\ApiGatewayWithOcelot\Order.Api\obj\Debug\net6.0\Order.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net Core\Ocelot Api (Microservice)\ApiGatewayWithOcelot\Order.Api\obj\Debug\net6.0\Order.Api.AssemblyInfoInputs.cache
+D:\.Net Core\Ocelot Api (Microservice)\ApiGatewayWithOcelot\Order.Api\obj\Debug\net6.0\Order.Api.AssemblyInfo.cs
+D:\.Net Core\Ocelot Api (Microservice)\ApiGatewayWithOcelot\Order.Api\obj\Debug\net6.0\Order.Api.csproj.CoreCompileInputs.cache
+D:\.Net Core\Ocelot Api (Microservice)\ApiGatewayWithOcelot\Order.Api\obj\Debug\net6.0\Order.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\.Net Core\Ocelot Api (Microservice)\ApiGatewayWithOcelot\Order.Api\obj\Debug\net6.0\Order.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\.Net Core\Ocelot Api (Microservice)\ApiGatewayWithOcelot\Order.Api\obj\Debug\net6.0\staticwebassets\msbuild.Order.Api.Microsoft.AspNetCore.StaticWebAssets.props
+D:\.Net Core\Ocelot Api (Microservice)\ApiGatewayWithOcelot\Order.Api\obj\Debug\net6.0\staticwebassets\msbuild.build.Order.Api.props
+D:\.Net Core\Ocelot Api (Microservice)\ApiGatewayWithOcelot\Order.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Order.Api.props
+D:\.Net Core\Ocelot Api (Microservice)\ApiGatewayWithOcelot\Order.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Order.Api.props
+D:\.Net Core\Ocelot Api (Microservice)\ApiGatewayWithOcelot\Order.Api\obj\Debug\net6.0\staticwebassets.pack.json
+D:\.Net Core\Ocelot Api (Microservice)\ApiGatewayWithOcelot\Order.Api\obj\Debug\net6.0\staticwebassets.build.json
+D:\.Net Core\Ocelot Api (Microservice)\ApiGatewayWithOcelot\Order.Api\obj\Debug\net6.0\staticwebassets.development.json
+D:\.Net Core\Ocelot Api (Microservice)\ApiGatewayWithOcelot\Order.Api\obj\Debug\net6.0\scopedcss\bundle\Order.Api.styles.css
+D:\.Net Core\Ocelot Api (Microservice)\ApiGatewayWithOcelot\Order.Api\obj\Debug\net6.0\Order.Api.csproj.CopyComplete
+D:\.Net Core\Ocelot Api (Microservice)\ApiGatewayWithOcelot\Order.Api\obj\Debug\net6.0\Order.Api.dll
+D:\.Net Core\Ocelot Api (Microservice)\ApiGatewayWithOcelot\Order.Api\obj\Debug\net6.0\refint\Order.Api.dll
+D:\.Net Core\Ocelot Api (Microservice)\ApiGatewayWithOcelot\Order.Api\obj\Debug\net6.0\Order.Api.pdb
+D:\.Net Core\Ocelot Api (Microservice)\ApiGatewayWithOcelot\Order.Api\obj\Debug\net6.0\Order.Api.genruntimeconfig.cache
+D:\.Net Core\Ocelot Api (Microservice)\ApiGatewayWithOcelot\Order.Api\obj\Debug\net6.0\ref\Order.Api.dll
