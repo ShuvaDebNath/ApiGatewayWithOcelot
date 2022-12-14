@@ -27,4 +27,4 @@ It stand for TIME TO LEAVE IN SECOND. It means, while the data is in the cache, 
 # Run Command in Browser
 https://localhost:5003/gateway/suppliers
 https://localhost:5003/gateway/suppliers/1
-https://localhost:5003/gateway/product
+https://localhost:5003/gateway/purchase
